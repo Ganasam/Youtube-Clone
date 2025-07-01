@@ -88,6 +88,19 @@ VITE_YOUTUBE_API_KEY=your_api_key_here
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🔹 Video Page
+![Video Page](./screenshots/video.png)
+
+### 🔹 Search Results
+![Search Results](./screenshots/search.png)
+
+---
+
 ## 🔮 Future Improvements
 
 - Add login/signup (OAuth or custom auth)
